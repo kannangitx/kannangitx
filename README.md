@@ -18,12 +18,6 @@ A Full Stack Web Developer 💻 and designer 🎨 from India 🇮🇳.
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
-
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://www.linkedin.com/in/kamalakannanal/)
